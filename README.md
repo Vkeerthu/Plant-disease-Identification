@@ -1,2 +1,2 @@
 # Plant-disease-Identification
-We trained our model on a large dataset of images of diseased and healthy plant leaves, and achieved high accuracy in classifying various plant diseases
+This repository contains the code and resources for a project on plant disease identification using deep learning. The project aims to develop a model that can accurately identify diseases in plants based on input images. This README file provides an overview of the project and instructions for running the code.We trained our model on a large dataset of images of diseased and healthy plant leaves, and achieved high accuracy in classifying various plant diseases.
