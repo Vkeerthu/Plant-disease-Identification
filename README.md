@@ -14,7 +14,7 @@ Clean and preprocess the collected images. This may involve resizing, cropping, 
 Train a deep learning model, typically a CNN, using the preprocessed images. The model should learn to distinguish between healthy plants and diseased plants. Transfer learning is often used in this context, where a pre-trained model (e.g., VGG, ResNet, Inception) is fine-tuned on the plant disease dataset to improve performance.
 
 ## Validation and Evaluation:
-Evaluate the trained model using a separate validation dataset. Measure metrics such as accuracy, precision, recall, and F1-score to assess the model's performance. Adjust the model and hyperparameters as Needed.
+Evaluate the trained model using a separate validation dataset. Measure metrics such as accuracy, precision, recall, and F1-score to assess the model's performance. Adjust the model and hyperparameters as needed.
 
 ## Deployment:
 Once the model performs well on the validation dataset, you can deploy it to identify plant diseases in real-world scenarios. This can be done through a web or mobile application, where users can upload images of plants and receive predictions about the presence of diseases.
